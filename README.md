@@ -6,7 +6,7 @@ Esta pieza de software es el BACKEND que consulta los datos de los jugadores del
 
 Los atributos de los usuarios (jugadores) son:
 
-```json
+```bash
 {
   id, // número que funciona como identificador único del jugador
   nickname, // string que contiene el alias del jugador
